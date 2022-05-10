@@ -9,6 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Offer a better experience for your users by letting the WooCommerce product tabs to interact with the URL hash.
 
+
 == Description ==
 
 **Hash Management for WooCommerce Product Tabs** does only two things:
